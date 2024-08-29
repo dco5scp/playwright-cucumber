@@ -1,6 +1,6 @@
-# Sauce Demo automation
+# Global SQA Bank manager BDD automation
 
-Repository for automated tests for [Sauce Demo e-commerce website](https://www.saucedemo.com/) using [Playwright](https://playwright.dev/).
+Repository for automated tests for [Banking Project website](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login/) using [Playwright](https://playwright.dev/).
 
 ## Prerequisites 
 1. [Node JS](https://nodejs.org/) - Download LTS version
@@ -14,7 +14,7 @@ Repository for automated tests for [Sauce Demo e-commerce website](https://www.s
 1. Clone the repo using below URL
 
 ```sh
-https://github.com/dco5scp/home-test.git
+https://github.com/dco5scp/playwright-cucumber
 ```
 
 2. Navigate to folder and install npm packages using:
@@ -38,7 +38,5 @@ npm test
 
 ## Reporting
 ### Open report
-
-```bash
-npx playwright show-report
-```
+ 
+ After running the test go to repo folder and in test-results folder, open cucumber-report.html
