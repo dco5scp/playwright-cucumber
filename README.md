@@ -6,8 +6,9 @@ Repository for automated tests for [Banking Project website](https://www.globals
 1. [Node JS](https://nodejs.org/) - Download LTS version
 2. [Git](https://git-scm.com/)
 3. [Visual Studio Code](https://code.visualstudio.com/) - Best IDE to work with playwright
-4. Playwright extension for VS Code
+4. Extensions to run Playwright wtih BDD for VS Code
     - Search by playwright and install "Playwright test for VS Code"
+    - Search by cucumber and install Cucumber from cucumber.io 
 
 ## Installation
 
